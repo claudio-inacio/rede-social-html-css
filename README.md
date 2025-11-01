@@ -59,5 +59,7 @@ Você pode visualizar o projeto online:
    ```bash
    git clone https://github.com/claudio-inacio/rede-social-html-css.git
 
+<img width="918" height="883" alt="image" src="https://github.com/user-attachments/assets/b7fa50a5-eea1-44e6-bfe4-ff5ca5d529be" />
+
 ![Exemplo Box](https://files-kenzie-academy-brasil.s3.amazonaws.com/q1/sprint2/entrega-Estilizar-um-Layout-de-uma-plataforma-de-streaming/rating-stylize-extra-social-network.png)
 
