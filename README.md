@@ -1,32 +1,63 @@
-# Extra: Estilize uma Rede Social
+# 🌐 Rede Social — HTML & CSS
 
-Para esta entrega, você continuará prototipando um layout de uma rede social, mas desta vez se concentrando em uma página de perfil como mostrado no mockup abaixo.
+Projeto desenvolvido como **exercício de estilização e responsividade** durante os estudos na **Kenzie Academy Brasil**.  
+O objetivo foi **reproduzir a interface de uma rede social moderna** utilizando **apenas HTML e CSS**, sem nenhuma funcionalidade JavaScript.
 
-## Visão Geral
+---
 
-Para começar, clone este repositório para sua máquina. Depois preencha o arquivo **style.css** de acordo com o que se pede.
-Lá você encontrará um HTML já estruturado com alguns comentários para te ajudar, mas lembre-se:
-Você é livre para editar da maneira que achar melhor.
+## 🎯 Objetivo do Projeto
 
-_Utilize fotos de seu gosto para montar a galeria_
+O foco principal deste projeto é o **aperfeiçoamento de habilidades de layout e design com CSS**, explorando:
 
-### Propriedades:
+- Estrutura semântica e organizada em **HTML5**  
+- Criação de layouts modernos com **Flexbox e Grid**  
+- Responsividade fluida para **desktop, tablet e mobile**  
+- Estudo de **tipografia, espaçamento e hierarquia visual**  
+- Construção de um estilo limpo e intuitivo, inspirado em redes sociais reais
 
-- Utilize conceitos de **Columns** ou **flexBox** para pocionar os elementos
-- Envolva o conteúdo em um **container** com **935px largura**
-- Para cada círculo de destaque utilize um **quadrado com 77px**, e uma **borda** arredondada 100%
-- Para cada box com a foto da galeria aplique **293px de largura e 293px de altura**
+---
 
-### Fonte:
+## 🧠 Conceitos e Boas Práticas Aplicadas
 
-1. Helvetica, Arial, sans-serif;
-2. Cor textos #262626;
+- **HTML semântico:** uso correto de seções (`<header>`, `<main>`, `<aside>`, `<section>`, etc).  
+- **CSS moderno:** uso de `flexbox`, `grid`, `gap`, variáveis de cor e estilos consistentes.  
+- **Design responsivo:** adapta-se automaticamente a diferentes tamanhos de tela.  
+- **Componentes reutilizáveis:** postagens, perfis e botões com classes modulares.  
+- **Organização e legibilidade:** código limpo, indentação consistente e separação de responsabilidades.
 
-### Como deve ficar:
+---
 
-![Exemplo Box](https://files-kenzie-academy-brasil.s3.amazonaws.com/q1/sprint2/entrega-Estilizar-um-Layout-de-uma-plataforma-de-streaming/rating-stylize-extra-social-network.png)
+## 📱 Estrutura Visual
 
-### Envio
+O layout simula uma rede social com:
+- Cabeçalho fixo com logotipo e campo de busca.  
+- Barra lateral com perfil do usuário e atalhos.  
+- Feed principal com cards de postagens.  
+- Seção lateral com sugestões de amizades ou tendências.  
+- Layout totalmente **responsivo e adaptável**.
 
-Faça o push do código para o seu repositório GitHub e implemente o GitHub pages. No Canvas, por favor, envie sua url do GitHub Pages:
-(ex: https://kenzie-academy-brasil-developers.github.io/rede-social-seu-user) e envie o link do seu repositório nos comentários. Manter seu projeto como **Internal**.
+---
+
+## 🧩 Tecnologias Utilizadas
+
+- **HTML5**
+- **CSS3 (Flexbox, Grid, Responsividade)**
+- **Vercel** (para deploy)
+
+---
+
+## 🌐 Deploy
+
+Você pode visualizar o projeto online:  
+👉 [rede-social-html-css.vercel.app](https://rede-social-html-css.vercel.app/)
+
+---
+
+## 🧑‍💻 Como Executar Localmente
+
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/claudio-inacio/rede-social-html-css.git
+
+<img width="918" height="883" alt="image" src="https://github.com/user-attachments/assets/b7fa50a5-eea1-44e6-bfe4-ff5ca5d529be" />
+
